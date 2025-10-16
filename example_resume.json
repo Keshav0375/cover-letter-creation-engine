@@ -1,0 +1,132 @@
+{
+  "name": "Keshav Arri",
+  "contacts": {
+    "email": "arri@uwindsor.ca",
+    "phone": "647-227-1538",
+    "location": "Windsor, Ontario",
+    "linkedin": "https://www.linkedin.com/in/keshav-kumar-arri/",
+    "portfolio": "https://portfolio-arri-beta.vercel.app/",
+    "github": "github.com/keshav0375"
+  },
+  "summary": "Full Stack AI/ML Engineer specializing in LLM orchestration, production machine learning pipelines, and scalable deployment. Delivered 77% latency improvements & 40% cost optimization driving business impact. Expertise in backend systems, cloud, & AI Agents—solving complex business challenges through effective collaboration & translating requirements into production-ready solutions delivering measurable ROI.",
+  "education": [
+    {
+      "degree": "Master of Applied Computing – Specialization in Artificial Intelligence",
+      "institution": "University of Windsor",
+      "duration": "Jan 2025 – Apr 2026",
+      "location": "Windsor, Ontario",
+      "notes": "Final semester requires 4 or 8 months internship starting Jan 2026"
+    }
+  ],
+  "experience": [
+    {
+      "title": "AI ML Engineer",
+      "company": "Slideoo",
+      "location": "Bangalore, India",
+      "duration": "Jan 2024 - Jan 2025",
+      "responsibilities": [
+        "Engineered scalable production environment multimodal LLM pipeline using LangGraph, LangChain, OpenAI, Anthropic and APIs across Azure and AWS, achieving time reduction from 3+ minutes to 40 seconds",
+        "Led team building AI Agent curation engine with step-by-step reasoning and web search, implementing multi-threading architecture scaling 10x traffic while reducing API costs 40% using Jira for collaboration"
+      ]
+    },
+    {
+      "title": "Data Scientist Intern",
+      "company": "Sabudh Foundation",
+      "location": "Punjab, India",
+      "duration": "Jul 2023 - Jan 2024",
+      "responsibilities": [
+        "Deployed machine learning models using XGBoost, Scikit-Learn, and PyTorch on large datasets from data lakes, achieving 15% accuracy improvement through rigorous analysis and problem-solving",
+        "Contributed to research project utilizing transformer architecture achieving 94% accuracy digitizing 10,000+ documents, demonstrating strong teamwork, verbal communication skills, & effective prioritization"
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "C",
+    "C++",
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Bash/Shell Scripting",
+    "HTML",
+    "CSS",
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Snowflake",
+    "Pinecone",
+    "Weaviate",
+    "ChromaDB",
+    "FAISS",
+    "AWS",
+    "Azure",
+    "Docker",
+    "Linux CLI",
+    "CI/CD Pipeline",
+    "Git",
+    "GitHub Actions",
+    "PyTorch",
+    "TensorFlow",
+    "LangChain",
+    "LangGraph",
+    "Hugging Face",
+    "Fine-tuning",
+    "Prompt Engineering",
+    "FastAPI",
+    "REST APIs",
+    "Jira",
+    "Visual Studio",
+    "Azure Databricks",
+    "Data Lakes",
+    "Django",
+    "ETL Pipelines"
+  ],
+  "project": [
+    {
+      "name": "Data Dialect AI",
+      "role": "AI Software Engineer",
+      "duration": "Mar 2025 – Jul 2025",
+      "description": "Architected AI Agent integrating SQL/NoSQL/Vector databases using LangGraph, Few-Shot learning, RAG, achieving 94% accuracy enabling non-technical users to query databases saving 15+ hours weekly",
+      "technologies": [
+        "LangGraph",
+        "Few-Shot Learning",
+        "RAG",
+        "FastAPI",
+        "React",
+        "SQL",
+        "NoSQL",
+        "Vector Databases"
+      ],
+      "achievements": [
+        "Built intelligent chatbot with FastAPI APIs and React, reducing query time by 65% through self-learning LLM pipeline with fine-tuned LLM, caching, & conversation history",
+        "Achieved 94% accuracy in database querying for non-technical users"
+      ]
+    },
+    {
+      "name": "EduMetrics",
+      "role": "Software Engineer",
+      "duration": "Feb 2025 – May 2025",
+      "description": "Developed full-stack platform using React, TypeScript, and Java Spring Boot with APIs and implementing advanced data structures & algorithms for real-time recommendations through scalable software engineering",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Java Spring Boot",
+        "Selenium",
+        "REST APIs",
+        "CI/CD"
+      ],
+      "achievements": [
+        "Engineered web scraping pipeline using Selenium in Visual Studio, extracting insights from 5+ platforms",
+        "Reduced manual work 80% through automated data processing"
+      ]
+    }
+  ],
+  "achievements": [
+    "WinHacks 2025 – Presented solution to 200+ professionals, demonstrating communication, leadership, and code reviews while explaining LLM implementations to stakeholders through effective reporting",
+    "Edge Hackathon 2024 - Collaborated in 48-hour sprint building scalable application, testing, debugging, monitoring, demonstrating teamwork, problem-solving, and delivering solution with documentation"
+  ],
+  "certifications": []
+}
